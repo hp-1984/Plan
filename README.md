@@ -6,7 +6,8 @@
 [Docker](https://www.youtube.com/watch?v=lGwu4C82Xyg&list=PLNAMH_0HgWT-erdgIJH_lYkRBKe3Krdhl)
 
 ### Python
-[Python](https://python.input.sk)
+[Python](https://python.input.sk)  
+[Python XlsxWriter](https://www.root.cz/clanky/tvorba-sesitu-ve-formatu-xlsx-v-pythonu-knihovna-xlsxwriter/) [folytatás](https://www.root.cz/clanky/tvorba-sesitu-ve-formatu-xlsx-v-pythonu-knihovna-xlsxwriter-pokracovani/)
 
 ### Javascript
 #### Vue3
@@ -30,5 +31,5 @@ Vim
 [zsh](https://www.zsh.org/)  
 [oh my zsh](https://ohmyz.sh/)  
 
-
+aa
 
