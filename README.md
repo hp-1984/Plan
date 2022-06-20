@@ -24,12 +24,19 @@
 [VBA](https://www.youtube.com/watch?v=To8S-sMCNTM&t=2064s)  
 
 ### Notes:
-[Markdown](https://www.markdownguide.org/basic-syntax/#code-blocks)  
+[Markdown](https://www.markdownguide.org/basic-syntax/#code-blocks) [reference card](https://arminreiter.com/wp-content/uploads/2020/04/Markdown-Cheatsheet.pdf) 
+[git](https://github.com/yablko/gitujeme-o-100-sest)
+
+##Linux
+[Barinka Lukas](https://lukasbarinka.gitlab.io/practical-shell/)
 
 ### Progs:
-Vim  
+Vim
+[Zim](https://zim-wiki.org/)  
 [zsh](https://www.zsh.org/)  
 [oh my zsh](https://ohmyz.sh/)  
 
+
 aa
+bb
 
